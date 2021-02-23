@@ -6,7 +6,7 @@ Using unique passwords for your online accounts is important when it comes to pr
 This Password Generator application allows employees to keep their sensitive data secure with 
 
 ## View My Work
-[Random Password Generator](https://mcraeteisha.github.io/teisha-mcrae-web-app-portfolio/)
+[Random Password Generator](https://mcraeteisha.github.io/random-password-generator/)
  
 ## Work Completed
 
