@@ -28,4 +28,4 @@ Some of the learnings I’m taking away from this project are:
 ## Author
 Teisha McRae
 
-![Website Screenshot](https://user-images.githubusercontent.com/73713665/108803530-e55c1d80-7568-11eb-91b3-10cff1918b00.png)
+![Website Screenshot](https://user-images.githubusercontent.com/73713665/108947836-3df5ee00-762f-11eb-8444-87e5483647bb.png)
